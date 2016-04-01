@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<slides>
+    <slide img="assistenza_finanziaria.jpeg">
+        <title>Assistenza Finanziaria</title>
+        <caption>Assistenza finanziaria caption</caption>
+    </slide>
+    <slide img="assistenza_anziani.jpg">
+        <title>Assistenza agli Anziani</title>
+        <caption>Assistenza agli anziani caption</caption>
+    </slide>
+    <slide img="assistenza_fiscale_e_tributaria.jpg">
+        <title>Assistenza Fiscale e Tributaria</title>
+        <caption>Assistenza Fiscale e Tributaria caption</caption>
+    </slide>
+</slides>
