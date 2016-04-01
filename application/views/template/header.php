@@ -20,12 +20,13 @@
                         <!-- Sidebar -->
                         <div id="sidebar-wrapper">
                             <ul class="sidebar-nav">
-                                <li class="sidebar-brand clearfix">
-                                        <img style="" src="<?=base_url()?>application/assets/img/template/logo.png"/>
-                                        
+                                <li class="sidebar-brand">
+                                    <a href="#">
+                                        Start Bootstrap
+                                    </a>
                                 </li>
-                                <li class="sidebar-brand-sitename">
-                                        <a href="#">Associazione Insieme a te </a>
+                                <li>
+                                    <a href="#">Dashboard</a>
                                 </li>
                                 <li>
                                     <a href="#">Shortcuts</a>
